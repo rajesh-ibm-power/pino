@@ -1,4 +1,5 @@
 language: node_js
+dist: xenial
 nodejs: 
     - 10
     - node  #latest stable Node.js release
